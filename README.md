@@ -15,27 +15,17 @@
 ---
 
 <!-- ===== ABOUT ME ===== -->
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<h3 align="center">🧑‍💻 About Me</h3>
 
-### 🧑‍💻 About Me
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bagasda45-collab/bagasda45-collab/main/assets/about-animated.svg" alt="about me animated" width="100%" />
+</div>
 
-```javascript
-const bagas = {
-  name: "Bagas Dizwar Asfas",
-  role: "Frontend Developer",
-  location: "Indonesia 🇮🇩",
-  learning: ["Bootstrap", "DaisyUI", "Flowbite", "GSAP"],
-  askMeAbout: ["HTML", "CSS", "JavaScript", "PHP", "Tailwind"],
-  funFact: "I enjoy learning new things about web development ☕",
-};
-```
+Halo! Saya Bagas, seorang **frontend developer** dari Indonesia yang suka mengubah desain jadi antarmuka yang hidup di browser. Saya paling betah berkutat dengan **HTML, CSS, JavaScript, PHP**, dan belakangan mulai serius mendalami **Tailwind CSS** untuk membangun UI yang rapi tanpa ribet.
 
-- 🌱 Sedang belajar **Bootstrap, DaisyUI, Flowbite, dan sedikit GSAP**
-- 💬 Tanya saya tentang **HTML, CSS, JavaScript, PHP, & Tailwind CSS**
-- 📫 Email saya di **bagasda93@gmail.com**
-- ⚡ Fun fact: **Saya suka mempelajari hal baru seputar web development**
+Saat ini saya sedang memperluas skill ke **Bootstrap, DaisyUI, Flowbite**, dan mulai mencoba-coba **GSAP** untuk animasi yang lebih halus. Buat saya, web development itu proses belajar yang tidak pernah selesai — dan justru di situ serunya.
 
-<br clear="right"/>
+📫 Cara terbaik menghubungi saya: **bagasda93@gmail.com**
 
 ---
 
@@ -99,12 +89,12 @@ const bagas = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bagasda45-collab&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagasda45-collab&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bagasda45-collab&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagasda45-collab&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=bagasda45-collab&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://github-readme-streak-stats.demolab.com?user=bagasda45-collab&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
@@ -118,7 +108,7 @@ const bagas = {
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bagasda45-collab&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bagasda45-collab&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
 </div>
 
 ---
