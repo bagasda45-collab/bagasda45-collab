@@ -1,29 +1,47 @@
-name: generate animation
+name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 0 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main, master]
+    paths:
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate SVG from real contributions
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: bagasda45-collab
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+            dist/github-snake.svg?color_snake=#66ffd1&color_dots=#11241e,#16543f,#238562,#43bd8e,#8dffcf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish generated image to output branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+        shell: bash
+        run: |
+          cd dist
+          git init -b output
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add github-snake.svg
+          git commit -m "Update contribution snake"
+          git remote add origin "https://github.com/${REPOSITORY}.git"
+          AUTH=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w 0)
+          git -c "http.https://github.com/.extraheader=AUTHORIZATION: basic ${AUTH}" push --force origin HEAD:output
