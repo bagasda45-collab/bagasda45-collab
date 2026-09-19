@@ -1,66 +1,68 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bagas%20Dizwar%20Asfas&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20from%20Indonesia&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+Hi%2C+I'm+Bagas+%F0%9F%91%8B;%3E+Frontend+Developer+%F0%9F%92%BB;%3E+Learning+GSAP+%26+DaisyUI+%F0%9F%8C%B1;%3E+Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=bagasda45-collab&label=Profile%20Views&color=39FF14&style=for-the-badge" alt="profile views"/>
-
-</div>
-
-<br/>
-
-<!--
-🐍 SNAKE CONTRIBUTION ANIMATION
-Ini butuh setup sekali di repo profile kamu (repo dengan nama = username GitHub kamu).
-Cara pasang ada di bagian bawah file ini ("Cara Aktifkan Snake Animation").
-Setelah aktif, ganti baris <img> di bawah ini dengan:
-https://raw.githubusercontent.com/bagasda45-collab/bagasda45-collab/output/github-contribution-grid-snake-dark.svg
--->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bagasda45-collab/bagasda45-collab/output/github-contribution-grid-snake-dark.svg" alt="snake contribution animation" width="100%"/>
+  <img src="./assets/profile-scan.svg" width="100%" alt="Hi, I'm Bagas Dizwar Asfas — frontend developer from Indonesia. Animated terminal profile." />
 </p>
 
-<h3 align="left">🚀 Tentang Saya</h3>
-
-- 🌱 Sedang belajar **Bootstrap, DaisyUI, Flowbite, dan sedikit GSAP**
-- 💬 Bisa diajak diskusi soal **HTML, CSS, JavaScript, PHP, dan Tailwind CSS**
-- 📫 Cara menghubungi saya: **bagasda93@gmail.com**
-- ⚡ Fun fact: **saya suka belajar hal baru soal pengembangan web**
-
-<h3 align="left">🔗 Terhubung dengan saya</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bagas-dizwar-asfas" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/590bagas" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-39FF14?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
-</a>
-<a href="mailto:bagasda93@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-</a>
+<p align="center">
+  <a href="https://github.com/bagasda45-collab?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-66FFD1?style=for-the-badge&amp;logo=github&amp;logoColor=071512" alt="Explore my work" /></a>
+  <a href="mailto:bagasda93@gmail.com"><img src="https://img.shields.io/badge/Let's_connect-142A23?style=for-the-badge&amp;logo=gmail&amp;logoColor=66FFD1" alt="Email Bagas" /></a>
+  <img src="https://komarev.com/ghpvc/?username=bagasda45-collab&amp;label=PROFILE+VIEWS&amp;color=24856b&amp;style=for-the-badge" alt="Profile views" />
 </p>
 
-<h3 align="left">🛠️ Languages & Tools</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,tailwind,bootstrap,figma,dart,flutter&theme=dark" alt="tech stack"/>
+### `01` — A little about me
+
+I'm **Bagas**, a passionate frontend developer from **Indonesia**. I enjoy turning ideas into interfaces and learning something new with every project.
+
+- 🌱 Currently learning **Bootstrap, DaisyUI, Flowbite, and a little bit of GSAP**.
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, and Tailwind CSS**.
+- ⚡ Fun fact: **I enjoy learning new things about web development**.
+- 📫 Reach me at **[bagasda93@gmail.com](mailto:bagasda93@gmail.com)**.
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+### `02` — My toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,react&amp;theme=dark" alt="HTML, CSS, JavaScript, PHP, Tailwind CSS, Bootstrap, React" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,cpp,dart,flutter,figma&amp;theme=dark" alt="Laravel, MySQL, C++, Dart, Flutter, Figma" />
 </p>
 
-<br/>
+<p align="center"><sub>Currently exploring</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" alt="Learning Bootstrap" />
+  <img src="https://img.shields.io/badge/DaisyUI-14392C?style=flat-square&amp;logo=daisyui&amp;logoColor=66FFD1" alt="Learning DaisyUI" />
+  <img src="https://img.shields.io/badge/Flowbite-155E75?style=flat-square" alt="Learning Flowbite" />
+  <img src="https://img.shields.io/badge/GSAP-Basics-88CE02?style=flat-square" alt="GSAP basics" />
+</p>
 
-<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### 📊 GitHub Stats
+### `03` — Contribution playground
 
-<img src="https://github-readme-stats.vercel.app/api?username=bagasda45-collab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagasda45-collab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" alt="top langs" height="165"/>
+<!-- Run the included Generate contribution snake workflow once to create this image. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bagasda45-collab/bagasda45-collab/output/github-snake.svg" width="100%" alt="Animated snake moving through my GitHub contribution graph" />
+</p>
+<p align="center"><sub>Real contributions. One small step at a time.</sub></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bagasda45-collab&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak stats" width="48%"/>
+<details>
+<summary><b>Open my GitHub stats</b></summary>
+<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bagasda45-collab&amp;show_icons=true&amp;hide_border=true&amp;bg_color=070e12&amp;title_color=66ffd1&amp;icon_color=66ffd1&amp;text_color=b1c9c0" height="170" alt="Bagas's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagasda45-collab&amp;layout=compact&amp;hide_border=true&amp;bg_color=070e12&amp;title_color=66ffd1&amp;text_color=b1c9c0" height="170" alt="Most used languages across public repositories" />
+</p>
+</details>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bagasda45-collab&theme=github-compact&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff" alt="activity graph" width="90%"/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-</div>
+### `04` — Find me around the web
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
+<p align="center">
+  <a href="mailto:bagasda93@gmail.com"><img src="https://img.shields.io/badge/Email-142A23?style=for-the-badge&amp;logo=gmail&amp;logoColor=66FFD1" alt="Email" /></a>
+  <a href="https://www.instagram.com/590bagas/"><img src="https://img.shields.io/badge/Instagram-142A23?style=for-the-badge&amp;logo=instagram&amp;logoColor=66FFD1" alt="Instagram @590bagas" /></a>
+</p>
+
+<!-- LinkedIn: add your actual profile URL here. The supplied URL contained spaces and has not been verified. -->
+
+<p align="center"><sub>Always learning. Always building.</sub></p>
