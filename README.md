@@ -1,143 +1,66 @@
-<!-- ===== HEADER ANIMASI ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38bdf8&height=200&section=header&text=Bagas%20Dizwar%20Asfas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20from%20Indonesia&descAlignY=55&descSize=18" />
-
-<!-- ===== TYPING ANIMATION ===== -->
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bagas+Dizwar+Asfas;Frontend+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;Tailwind+CSS+Enthusiast+%F0%9F%8E%A8;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=bagasda45-collab&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/bagasda45-collab?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-Frontend-38bdf8?style=for-the-badge" alt="focus" />
-
-</div>
-
----
-
-<!-- ===== ABOUT ME ===== -->
-<h3 align="center">🧑‍💻 About Me</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bagasda45-collab/bagasda45-collab/main/assets/about-animated.svg" alt="about me animated" width="100%" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php&theme=dark" alt="skill icons" />
-</div>
-
-Halo! Saya Bagas, seorang **frontend developer** dari Indonesia yang suka mengubah desain jadi antarmuka yang hidup di browser. Saya paling betah berkutat dengan **HTML, CSS, JavaScript, PHP**, dan belakangan mulai serius mendalami **Tailwind CSS** untuk membangun UI yang rapi tanpa ribet.
-
-Saat ini saya sedang memperluas skill ke **Bootstrap, DaisyUI, Flowbite**, dan mulai mencoba-coba **GSAP** untuk animasi yang lebih halus. Buat saya, web development itu proses belajar yang tidak pernah selesai — dan justru di situ serunya.
-
-📫 Cara terbaik menghubungi saya: **bagasda93@gmail.com**
-
----
-
-<!-- ===== CONNECT ===== -->
-<h3 align="center">🤝 Connect With Me</h3>
-
 <div align="center">
 
-<a href="mailto:bagasda93@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bagas%20Dizwar%20Asfas&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20from%20Indonesia&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+Hi%2C+I'm+Bagas+%F0%9F%91%8B;%3E+Frontend+Developer+%F0%9F%92%BB;%3E+Learning+GSAP+%26+DaisyUI+%F0%9F%8C%B1;%3E+Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 </a>
-<a href="https://www.linkedin.com/in/bagas-dizwar-asfas" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<img src="https://komarev.com/ghpvc/?username=bagasda45-collab&label=Profile%20Views&color=39FF14&style=for-the-badge" alt="profile views"/>
+
+</div>
+
+<br/>
+
+<!--
+🐍 SNAKE CONTRIBUTION ANIMATION
+Ini butuh setup sekali di repo profile kamu (repo dengan nama = username GitHub kamu).
+Cara pasang ada di bagian bawah file ini ("Cara Aktifkan Snake Animation").
+Setelah aktif, ganti baris <img> di bawah ini dengan:
+https://raw.githubusercontent.com/bagasda45-collab/bagasda45-collab/output/github-contribution-grid-snake-dark.svg
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bagasda45-collab/bagasda45-collab/output/github-contribution-grid-snake-dark.svg" alt="snake contribution animation" width="100%"/>
+</p>
+
+<h3 align="left">🚀 Tentang Saya</h3>
+
+- 🌱 Sedang belajar **Bootstrap, DaisyUI, Flowbite, dan sedikit GSAP**
+- 💬 Bisa diajak diskusi soal **HTML, CSS, JavaScript, PHP, dan Tailwind CSS**
+- 📫 Cara menghubungi saya: **bagasda93@gmail.com**
+- ⚡ Fun fact: **saya suka belajar hal baru soal pengembangan web**
+
+<h3 align="left">🔗 Terhubung dengan saya</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bagas-dizwar-asfas" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/590bagas" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-39FF14?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
 </a>
-<a href="https://github.com/bagasda45-collab" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:bagasda93@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
 </a>
+</p>
 
-</div>
+<h3 align="left">🛠️ Languages & Tools</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,tailwind,bootstrap,figma,dart,flutter&theme=dark" alt="tech stack"/>
+</p>
 
----
-
-<!-- ===== TECH STACK ===== -->
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-<div align="center">
-
-<details open>
-<summary><b>💻 Frontend</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react&theme=dark" />
-</details>
-
-<details>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,cpp&theme=dark" />
-</details>
-
-<details>
-<summary><b>📱 Mobile & Design</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma&theme=dark" />
-</details>
-
-<details>
-<summary><b>🧰 Tools</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm,vite&theme=dark" />
-</details>
-
-</div>
-
----
-
-<!-- ===== GITHUB STATS ===== -->
-<h3 align="center">📊 GitHub Statistics</h3>
+<br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bagasda45-collab&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagasda45-collab&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+### 📊 GitHub Stats
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=bagasda45-collab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagasda45-collab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" alt="top langs" height="165"/>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=bagasda45-collab&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bagasda45-collab&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak stats" width="48%"/>
 
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bagasda45-collab&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bagasda45-collab&theme=github-compact&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff" alt="activity graph" width="90%"/>
 
 </div>
 
----
-
-<!-- ===== TROPHY ===== -->
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bagasda45-collab&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
-</div>
-
----
-
-<!-- ===== SNAKE ANIMATION ===== -->
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagasda45-collab/bagasda45-collab/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagasda45-collab/bagasda45-collab/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/bagasda45-collab/bagasda45-collab/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-<!-- ===== QUOTE ===== -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br>
-
-<div align="center">
-  <b>⭐ Terima kasih sudah mampir! Jangan lupa tinggalkan star di repo yang kamu suka ⭐</b>
-</div>
-
-<!-- ===== FOOTER ANIMASI ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0e75b6&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
