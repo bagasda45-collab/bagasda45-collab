@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
+<title id="title">Bagas Dizwar Asfas — frontend developer</title>
+<desc id="desc">Animated mint-green terminal profile with a scanning monogram and typing effect. Indonesia. Learning Bootstrap, DaisyUI, Flowbite and GSAP.</desc>
+<defs>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#15342e" stroke-width=".5"/></pattern>
+<linearGradient id="panel" x2="1" y2="1"><stop stop-color="#102e29"/><stop offset="1" stop-color="#071512"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#66ffd1" stop-opacity="0"/><stop offset="1" stop-color="#66ffd1" stop-opacity=".22"/></linearGradient>
+<clipPath id="left"><rect x="30" y="115" width="272" height="280" rx="12"/></clipPath>
+<clipPath id="typing"><rect class="typing" x="337" y="243" width="565" height="30"/></clipPath>
+</defs>
+<style>
+text{font-family:'DejaVu Sans Mono',Consolas,monospace}
+.scan{animation:scan 5s linear infinite}.ring{transform-origin:166px 238px;animation:spin 18s linear infinite}.cursor{animation:blink 1.2s steps(2,end) infinite}.typing{animation:type 8s steps(33,end) infinite}.pulse{animation:pulse 3s ease-in-out infinite}
+@keyframes scan{0%{transform:translateY(-200px)}100%{transform:translateY(290px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pulse{50%{opacity:.35}}
+@keyframes type{0%,8%{width:0}55%,90%{width:565px}100%{width:0}}
+@media(prefers-reduced-motion:reduce){.scan,.ring,.cursor,.typing,.pulse{animation:none}.scan{opacity:0}}
+</style>
+<rect width="960" height="480" rx="18" fill="#070e12"/>
+<rect width="960" height="480" rx="18" fill="url(#grid)"/>
+<rect x="1" y="1" width="958" height="478" rx="17" fill="none" stroke="#275247"/>
+<path d="M1 53H959" stroke="#275247"/>
+<circle cx="26" cy="27" r="5" fill="#f17878"/><circle cx="44" cy="27" r="5" fill="#f4cd75"/><circle cx="62" cy="27" r="5" fill="#64e3b7"/>
+<text x="87" y="32" fill="#94b3ac" font-size="12">bagas@github: ~/profile</text>
+<circle class="pulse" cx="818" cy="27" r="4" fill="#66ffd1"/><text x="832" y="32" fill="#66ffd1" font-size="11">KEEP LEARNING</text>
+<text x="30" y="91" fill="#66ffd1" font-size="13" letter-spacing="3">01 / PROFILE SCAN</text>
+<rect x="30" y="115" width="272" height="280" rx="12" fill="url(#panel)" stroke="#397c67"/>
+<text x="48" y="141" fill="#7ba999" font-size="10">IDENTITY_MODULE // BDA</text>
+<circle cx="166" cy="238" r="74" fill="#0c211c" stroke="#275247"/>
+<circle class="ring" cx="166" cy="238" r="87" fill="none" stroke="#66ffd1" stroke-width="2" stroke-dasharray="55 28 5 28"/>
+<text x="166" y="253" text-anchor="middle" fill="#b5ffe8" font-weight="bold" font-size="43">&lt;B/&gt;</text>
+<g clip-path="url(#left)"><g class="scan"><rect x="30" y="115" width="272" height="75" fill="url(#scan)"/><path d="M30 190H302" stroke="#a1ffe1" stroke-width="2"/></g></g>
+<text x="166" y="352" text-anchor="middle" fill="#66ffd1" font-size="12">@bagasda45-collab</text>
+<text x="166" y="374" text-anchor="middle" fill="#7ba999" font-size="10">BUILD • BREAK • LEARN • REPEAT</text>
+<text x="337" y="148" fill="#88b0a2" font-size="12">Hello, world. I'm</text>
+<text x="334" y="192" fill="#eefff9" font-size="34" font-weight="bold">Bagas Dizwar Asfas</text>
+<text x="337" y="224" fill="#66ffd1" font-size="16">FRONTEND DEVELOPER / INDONESIA</text>
+<g clip-path="url(#typing)"><text x="337" y="263" fill="#b1c9c0" font-size="16">&gt; Turning ideas into interfaces.</text></g>
+<path d="M337 283H922" stroke="#275247"/>
+<text x="337" y="314" fill="#779a8e" font-size="11">EXPLORING</text>
+<text x="337" y="339" fill="#d2eee2" font-size="14">Bootstrap · DaisyUI · Flowbite</text>
+<text x="337" y="362" fill="#d2eee2" font-size="14">+ a little bit of GSAP</text>
+<text x="337" y="391" fill="#66ffd1" font-size="12">$ curiosity --always-on</text><rect class="cursor" x="529" y="378" width="8" height="15" fill="#66ffd1"/>
+<path d="M30 421H930" stroke="#275247"/>
+<text x="30" y="451" fill="#7ba999" font-size="11">DESIGNED WITH CURIOSITY. BUILT THROUGH PRACTICE.</text>
+<text x="930" y="451" text-anchor="end" fill="#66ffd1" font-size="11">&lt;/&gt; BDA</text>
+</svg>
