@@ -19,6 +19,8 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bagasda45-collab/bagasda45-collab/main/assets/about-animated.svg" alt="about me animated" width="100%" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php&theme=dark" alt="skill icons" />
 </div>
 
 Halo! Saya Bagas, seorang **frontend developer** dari Indonesia yang suka mengubah desain jadi antarmuka yang hidup di browser. Saya paling betah berkutat dengan **HTML, CSS, JavaScript, PHP**, dan belakangan mulai serius mendalami **Tailwind CSS** untuk membangun UI yang rapi tanpa ribet.
